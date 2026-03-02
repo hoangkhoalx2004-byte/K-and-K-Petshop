@@ -4,8 +4,8 @@ Hệ thống quản lý cửa hàng thú cưng trực tuyến được xây dự
 
 Dự án này được phát triển để học tập và làm portfolio xin thực tập (internship) vị trí PHP Developer / Full-stack Web Developer.
 Vì trường chỉ quan tâm về kiến thức nên giao diện web nhìn sẽ không được nổi bật ạ 
-![Trang chủ Pet Shop](screenshots/home.png)
-![Admin Dashboard](screenshots/admin.png)
+![Trang chủ Pet Shop](home.png)
+![Admin Dashboard](admin.png)
 
 ## Công nghệ sử dụng
 - **Backend**: PHP 8+
